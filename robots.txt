@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /img/
+Disallow: /js/
+Disallow: /vendor/
+Disallow: 404.html
+Disallow: dots.html
+
+Sitemap: http://genuine.domains/sitemap.xml
