@@ -5,6 +5,7 @@ Disallow: /img/
 Disallow: /js/
 Disallow: /vendor/
 Disallow: /dots/
+Disallow: /names/
 Disallow: 404.html
 
 Sitemap: http://genuine.domains/sitemap.xml
