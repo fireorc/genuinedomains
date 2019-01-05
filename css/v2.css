@@ -40,3 +40,34 @@
 #site-title {
 	font-family: "montserrat bold";
 }
+#footer-style {
+	font-family: "montserrat";
+}
+#contact {
+	width: 600px;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+}
+#img {
+	width: 900px;
+	height: 650px;
+	background-image: url(../img/Earbuds.png);
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.hr {
+	width: 200px;
+	border: rgba(255,255,255,1) solid 2px;
+	color: rgba(255,255,255,1);
+	margin-left: auto;
+	margin-right: auto;
+}
+.hr2 {
+	width: 200px;
+	border: rgba(44,44,44,0.85) solid 2px;
+	color: rgba(44,44,44,0.85);
+	margin-left: auto;
+	margin-right: auto;
+}
