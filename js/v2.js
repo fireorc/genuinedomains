@@ -1,1 +1,1 @@
-document.getElementById('footer-content').innerHTML = "© Genuine Domains, an E-Folio Assets subsidiary-test"
+document.getElementById('footer-content').innerHTML = "© Genuine Domains, an E-Folio Assets subsidiary"
