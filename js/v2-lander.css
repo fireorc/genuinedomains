@@ -1,0 +1,71 @@
+@charset "utf-8";
+/* CSS Document */
+@font-face {
+    font-family: 'montserrat';
+    src: url('../fonts/Montserrat-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'montserrat bold';
+    src: url('../fonts/Montserrat-Bold.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+body {
+	font-family: "montserrat";
+}
+#header {
+	background-color: rgba(255,255,255,1);
+}
+#dn {
+	color: rgba(0,0,0,1);
+}
+#padd {
+	padding-top: 100px;
+}
+#marg {
+	margin-bottom: 100px;
+}
+#marg2 {
+	margin-top: 50px;
+}
+/*#image-bg {
+	margin-left: auto;
+	margin-right: auto;
+	width: 900px;
+	height: 650px;
+	background-image: url(../img/Earbuds.png);
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size: auto;
+	background-color: #18BC9C;
+}*/
+#desc {
+	color: rgba(0,0,0,1);
+	max-width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+}
+#cont {
+	color: rgba(0,0,0,1);
+	font-size: medium;
+	max-width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+}
+.cont2 {
+	color: rgba(24,188,156,1);
+}
+hr.seperator {
+	
+	color: rgba(0,0,0,1);
+    padding: 0;
+    border: none;
+    border-top: solid 2px;
+    text-align: center;
+    max-width: 250px;
+    margin: 25px auto 30px;
+}
