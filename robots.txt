@@ -3,7 +3,6 @@ Disallow: /css/
 Disallow: /fonts/
 Disallow: /img/
 Disallow: /js/
-Disallow: /vendor/
 Disallow: /dots/
 Disallow: /names/
 Disallow: 404.html
