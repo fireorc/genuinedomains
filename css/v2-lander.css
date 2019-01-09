@@ -20,27 +20,18 @@ body {
 }
 #dn {
 	color: rgba(0,0,0,1);
+	text-transform: none;
+	font-family: "montserrat bold";
 }
 #padd {
 	padding-top: 100px;
 }
 #marg {
-	margin-bottom: 100px;
+	margin-bottom: 50px;
 }
 #marg2 {
 	margin-top: 50px;
 }
-/*#image-bg {
-	margin-left: auto;
-	margin-right: auto;
-	width: 900px;
-	height: 650px;
-	background-image: url(../img/Earbuds.png);
-	background-position:center;
-	background-repeat:no-repeat;
-	background-size: auto;
-	background-color: #18BC9C;
-}*/
 #desc {
 	color: rgba(0,0,0,1);
 	max-width: 600px;

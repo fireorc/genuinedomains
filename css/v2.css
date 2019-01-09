@@ -48,20 +48,6 @@ body {
 #site-title {
 	font-family: "montserrat bold";
 }
-#contact {
-	width: 600px;
-	height: auto;
-	margin-left: auto;
-	margin-right: auto;
-	text-align: left;
-}
-#img {
-	width: 900px;
-	height: 650px;
-	background-image: url(../img/Earbuds.png);
-	background-repeat: no-repeat;
-	background-position: center;
-}
 .hr {
 	width: 200px;
 	border: rgba(255,255,255,1) solid 2px;
