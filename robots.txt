@@ -7,4 +7,4 @@ Disallow: /dots/
 Disallow: /names/
 Disallow: 404.html
 
-Sitemap: http://genuine.domains/sitemap.xml
+Sitemap: https://genuine.domains/sitemap.xml
