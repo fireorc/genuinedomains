@@ -36,12 +36,6 @@
     font-weight: normal;
     font-style: normal;
 }
-@font-face {
-    font-family: 'fontawesome';
-    src: url('../fonts/fontawesome-webfont.ttf');
-    font-weight: normal;
-    font-style: normal;
-}
 body {
 	font-family: "montserrat";
 }
