@@ -73,3 +73,20 @@ body {
 .emoji {
 	color: #28c8f0 !important;
 }
+#contact {
+	display: none;
+	background-color: rgba(24,188,156,1);
+	padding: 20px;
+	border: rgba(255,255,255,1) thin double;
+}
+#form-deco {
+	color: rgba(40,200,240,1);
+	text-decoration: underline;
+}
+.send {
+	background-color: rgba(51,204,255,1);
+}
+.form {
+	width: 99%;
+	margin: 0;
+}
