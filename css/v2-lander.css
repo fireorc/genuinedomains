@@ -20,6 +20,10 @@ body {
 }
 #dn {
 	color: rgba(0,0,0,1);
+	color: rgba(24,188,156,1);
+	background-color: (255,255,255,1));
+	border: rgba(24,188,156,1) 2px solid;
+	box-shadow: 6px 8px rgba(24,188,156,1);
 	text-transform: none;
 	font-family: "montserrat bold";
 }
