@@ -25,12 +25,15 @@ body {
 	box-shadow: 6px 8px rgba(24,188,156,1);
 	text-transform: none;
 	font-family: "montserrat bold";
+	padding-left: 15px;
+	padding-right: 15px;
 }
 #padd {
 	padding-top: 100px;
 }
 #marg {
 	margin-bottom: 50px;
+	display: inline-block;
 }
 #marg2 {
 	margin-top: 50px;
