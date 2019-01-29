@@ -12,15 +12,12 @@
     font-weight: normal;
     font-style: normal;
 }
-html {
-	overflow: scroll;
-}
 body {
 	font-family: "montserrat";
-	/*min-width: 400px;*/
 }
 #header {
 	background-color: rgba(255,255,255,1);
+	overflow: scroll;
 }
 #dn {
 	color: rgba(24,188,156,1);
@@ -29,15 +26,15 @@ body {
 	box-shadow: 6px 8px rgba(24,188,156,1);
 	text-transform: none;
 	font-family: "montserrat bold";
-	/*padding-left: 15px;
-	padding-right: 15px;*/
+	padding-left: 15px;
+	padding-right: 15px;
 }
 #padd {
 	padding-top: 100px;
 }
 #marg {
 	margin-bottom: 50px;
-	/*display: inline-block;*/
+	display: inline-block;
 }
 #marg2 {
 	margin-top: 50px;
