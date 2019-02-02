@@ -36,6 +36,10 @@
     font-weight: normal;
     font-style: normal;
 }
+/*html {
+	min-width: 400px;
+	overflow: scroll;
+}*/
 body {
 	font-family: "montserrat";
 }
