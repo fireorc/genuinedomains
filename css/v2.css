@@ -51,13 +51,6 @@ body {
 #site-title {
 	font-family: "GenuineDomainsBlack";
 }
-.hr {
-	width: 200px;
-	border: rgba(255,255,255,1) solid 2px;
-	color: rgba(255,255,255,1);
-	margin-left: auto;
-	margin-right: auto;
-}
 .hr2 {
 	width: 200px;
 	border: rgba(44,44,44,0.85) solid 2px;
