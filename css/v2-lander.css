@@ -23,7 +23,7 @@
 body {
 	font-family: "GenuineDomains";
 	min-width: 380px;
-	overflow: scroll;
+	overflow: auto;
 }
 #header {
 	background-color: rgba(255,255,255,1);
@@ -41,7 +41,7 @@ body {
 	padding-right: 15px;
 }
 #padd {
-	padding-top: 50px;
+	padding-top: 75px;
 }
 #marg {
 	margin-bottom: 50px;
