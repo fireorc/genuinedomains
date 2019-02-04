@@ -1,14 +1,22 @@
 @charset "utf-8";
 /* CSS Document */
 @font-face {
-    font-family: 'montserrat';
-    src: url('../fonts/Montserrat-Regular.ttf');
+    font-family: 'GenuineDomains';
+    src: url('../fonts/GenuineDomains.eot');
+    src: url('../fonts/GenuineDomains.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/GenuineDomains.woff') format('woff'),
+         url('../fonts/GenuineDomains.ttf') format('truetype'),
+         url('../fonts/GenuineDomains.svg#GenuineDomains') format('svg');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
-    font-family: 'montserrat bold';
-    src: url('../fonts/Montserrat-Bold.ttf');
+    font-family: 'GenuineDomainsBlack';
+    src: url('../fonts/GenuineDomainsBlack.eot');
+    src: url('../fonts/GenuineDomainsBlack.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/GenuineDomainsBlack.woff') format('woff'),
+         url('../fonts/GenuineDomainsBlack.ttf') format('truetype'),
+         url('../fonts/GenuineDomainsBlack.svg#GenuineDomainsBlack') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -20,10 +28,10 @@
 	background-color:;
 }*/
 body {
-	font-family: "montserrat";
+	font-family: "GenuineDomains";
 }
 #site-title {
-	font-family: "montserrat bold";
+	font-family: "GenuineDomainsBlack";
 }
 .hr {
 	width: 200px;

@@ -1,5 +1,5 @@
 body {
-  font-family: "montserrat";
+  font-family: "GenuineDomains";
 	overflow-x: hidden;
 }
 p {
@@ -22,7 +22,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "montserrat";
+  font-family: "GenuineDomains";
   text-transform: uppercase;
   font-weight: 700;
 }
@@ -44,7 +44,7 @@ header img {
 }
 header .intro-text .name {
   display: block;
-  font-family: "montserrat bold";
+  font-family: "GenuineDomainsBlack";
   text-transform: uppercase;
   font-weight: 700;
   font-size: 2em;
@@ -67,7 +67,7 @@ header .intro-text .skills {
 }
 .navbar-custom {
   background: #2C3E50;
-  font-family: "montserrat";
+  font-family: "GenuineDomains";
   text-transform: uppercase;
   font-weight: 700;
   border: none;
