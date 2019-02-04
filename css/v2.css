@@ -20,15 +20,13 @@
     font-weight: normal;
     font-style: normal;
 }
-/*html {
-	min-width: 400px;
-	overflow: scroll;
-}
 .navbar {
 	background-color:;
-}*/
+}
 body {
 	font-family: "GenuineDomains";
+	min-width: 380px;
+	overflow: scroll;
 }
 #site-title {
 	font-family: "GenuineDomainsBlack";
