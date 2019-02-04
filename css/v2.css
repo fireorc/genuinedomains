@@ -20,13 +20,33 @@
     font-weight: normal;
     font-style: normal;
 }
+@font-face {
+    font-family: 'GenuineDomainsBold';
+    src: url('../fonts/GenuineDomainsBold.eot');
+    src: url('../fonts/GenuineDomainsBold.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/GenuineDomainsBold.woff') format('woff'),
+         url('../fonts/GenuineDomainsBold.ttf') format('truetype'),
+         url('../fonts/GenuineDomainsBold.svg#GenuineDomainsBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'GenuineDomainsItalic';
+    src: url('../fonts/GenuineDomainsItalic.eot');
+    src: url('../fonts/GenuineDomainsItalic.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/GenuineDomainsItalic.woff') format('woff'),
+         url('../fonts/GenuineDomainsItalic.ttf') format('truetype'),
+         url('../fonts/GenuineDomainsItalic.svg#GenuineDomainsItalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
 .navbar {
 	background-color:;
 }
 body {
 	font-family: "GenuineDomains";
 	min-width: 380px;
-	overflow: scroll;
+	overflow-x: auto;
 }
 #site-title {
 	font-family: "GenuineDomainsBlack";
@@ -77,14 +97,21 @@ body {
 	margin: 0;
 	color: rgba(0,0,0,1);
 }
+#more {
+	font-variant: normal;
+	color: rgba(255,51,0,0.5);
+	font-family: "GenuineDomainsItalic"; 
+}
 h3 {
 	background-color: rgba(255,255,255,1);
 	border: rgba(24,188,156,1) 1px solid;
 	padding: 5px;
 	color: rgba(24,188,156,1);
 	box-shadow: 3px 5px rgba(24,188,156,1);
+	font-family: "GenuineDomainsBold";
+	overflow: hidden;
 }
-h3.dn {
+h3.info {
 	background-color: #2c3e50;
 	padding: 0px;
 	box-shadow: none;
