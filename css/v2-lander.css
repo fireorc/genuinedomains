@@ -28,17 +28,23 @@ body {
 #header {
 	background-color: rgba(255,255,255,1);
 }
-
+/*.img-responsive {
+	background-color: (24,188,156,1);
+	border: rgba(24,188,156,1) 1px solid;
+	border-radius: 15px;
+	box-shadow: 6px 8px rgba(24,188,156,1);
+	padding: 15px;
+}*/
 #dn {
 	color: rgba(24,188,156,1);
-	background-color: (255,255,255,1));
+	/*background-color: (255,255,255,1);
 	border: rgba(24,188,156,1) 2px solid;
-	box-shadow: 6px 8px rgba(24,188,156,1);
+	box-shadow: 6px 8px rgba(24,188,156,1);*/
 	text-transform: none;
 	font-family: "GenuineDomainsBold";
 	/* adds cushion to box-border for inline block */
-	padding-left: 15px;
-	padding-right: 15px;
+	/*padding-left: 15px;
+	padding-right: 15px;*/
 }
 #padd {
 	padding-top: 75px;
@@ -46,7 +52,7 @@ body {
 #marg {
 	margin-bottom: 50px;
 /* makes box-border same size as text-width */
-	display: inline-block;
+	/*display: inline-block;*/
 }
 #marg2 {
 	margin-top: 50px;
