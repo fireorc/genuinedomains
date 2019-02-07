@@ -41,7 +41,10 @@
     font-style: normal;
 }
 .navbar {
-	background-color:;
+}
+footer .footer-above {
+}
+footer .footer-below {
 }
 body {
 	font-family: "GenuineDomains";
