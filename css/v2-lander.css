@@ -45,6 +45,14 @@ body {
 	/* adds cushion to box-border for inline block */
 	/*padding-left: 15px;
 	padding-right: 15px;*/
+	/* engraved text #1 */
+	/*text-shadow: -1px -1px 2px #000;*/
+	/* engraved text #2 */
+    /*background-color: #5D8D89;*/
+    /*text-shadow: 0px 1px 0px rgba(255,255,255,.3), 0px -1px 0px rgba(0,0,0,.7);*/
+	/*embossed text */
+	/*background-color: #aaa;
+	text-shadow: 0px 1px 0px rgba(0,0,0,.5);*/
 }
 #padd {
 	padding-top: 75px;
