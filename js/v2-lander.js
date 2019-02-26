@@ -1,1 +1,1 @@
-document.getElementById('cont2').innerHTML = "names (at) genuine.domains";
+document.getElementById('cont2').innerHTML = "names@genuine.domains";
