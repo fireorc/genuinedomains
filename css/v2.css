@@ -109,6 +109,24 @@ body {
 	color: rgba(255,51,0,0.5);
 	font-family: "GenuineDomainsItalic";
 }
+#flying {
+	font-family: "GenuineDomainsBold";
+	text-transform: none;
+	border: none;
+	padding: 0;
+	box-shadow: none;
+}
+#carpet	{
+	font-family: "GenuineDomains";
+	text-transform: none;
+	border: none;
+	padding: 0;
+	box-shadow: none;
+}
+.flyer {
+	border: rgba(24,188,156,1) solid 2px;
+	color: rgba(24,188,156,1);
+}
 a.more {
 	text-decoration:;
 	color: rgba(40,200,240,1);
