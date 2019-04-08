@@ -41,6 +41,8 @@
     font-style: normal;
 }
 .navbar {
+	background-color: #dc873f;
+	border-bottom: rgba(255,255,255,1) thick solid;
 }
 footer .footer-above {
 }
