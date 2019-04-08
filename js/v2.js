@@ -1,4 +1,4 @@
-document.getElementById('footer-content').innerHTML = "2019 © Genuine Domains, managed by E-Folio Assets SP";
+document.getElementById('footer-content').innerHTML = "2019 © Genuine Domains";
 /* in conjunction with css contact and form-deco id
 function contact() {
   var x = document.getElementById("contact");
