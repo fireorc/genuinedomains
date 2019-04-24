@@ -1,1 +1,1 @@
-document.getElementById('cont2').innerHTML = "names@genuine.domains";
+document.getElementById('cont2').innerHTML = "names@genuine.domains <br/><br/><span style='color: red; font-family: GenuineDomains;'>*Use only 'domain name inquiry' sans quotes in email subject line.</span>";
