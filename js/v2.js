@@ -1,4 +1,4 @@
-document.getElementById('footer-content').innerHTML = "2019 © Genuine Domains";
+document.getElementById('footer-content').innerHTML = "© Genuine Domains, 2016 to present day";
 /* in conjunction with css contact and form-deco id
 function contact() {
   var x = document.getElementById("contact");
