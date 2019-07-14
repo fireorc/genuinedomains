@@ -1,4 +1,4 @@
-document.getElementById('footer-content').innerHTML = "© Genuine Domains, 2016 to present. An E-Folio Assets affiliate.";
+document.getElementById('footer-content').innerHTML = "© Genuine Domains, 2016 to present. An E-Folio Assets affair.";
 /* in conjunction with css contact and form-deco id
 function contact() {
   var x = document.getElementById("contact");
