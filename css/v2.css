@@ -137,6 +137,9 @@ body {
 .flyer {
 	border: rgba(24,188,156,1) solid 2px;
 	color: rgba(24,188,156,1);
+	width: 200px;
+	margin-left: auto;
+	margin-right: auto;
 }
 a.more {
 	text-decoration:;
@@ -146,6 +149,15 @@ a.more {
 h3 {
 	background-color: rgba(255,255,255,1);
 	border: rgba(24,188,156,1) 1px solid;
+	padding: 5px;
+	color: rgba(24,188,156,1);
+	box-shadow: 3px 5px rgba(24,188,156,1);
+	font-family: "GenuineDomainsBold";
+	overflow: hidden;
+}
+h3.main {
+	background-color: rgba(255,255,255,1);
+	border: rgba(0,0,0,.5) 1px solid;
 	padding: 5px;
 	color: rgba(24,188,156,1);
 	box-shadow: 3px 5px rgba(0,0,0,.5);
@@ -196,7 +208,7 @@ h3.faq {
 	background-repeat: no-repeat;
 }
 @media (max-width: 767px) {
-  #portfolio {
+  #portfolio.bg-img {
     background-image: url(../img/background2.jpg);
   }
 }
