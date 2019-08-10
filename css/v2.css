@@ -56,14 +56,16 @@ body {
 #site-title {
 	font-family: "GenuineDomainsBlack";
 }
-.hr2 {
+.hr1 {
 	width: 200px;
 	border: rgba(44,44,44,0.85) solid 2px;
 	color: rgba(44,44,44,0.85);
 	margin-left: auto;
 	margin-right: auto;
+	box-shadow: 0px 0px 2px #fff;
+	-webkit-font-smoothing: antialiased;
 }
-.hr1 {
+.hr2 {
 	width: 200px;
 	border: rgba(255,255,255,1) solid 2px;
 	color: rgba(255,255,255,1);
@@ -76,6 +78,10 @@ body {
 	color: rgba(255,255,255,1);
 	margin-left: auto;
 	margin-right: auto;
+}
+#title1 {
+	text-shadow: 0px 0px 2px #fff;
+	-webkit-font-smoothing: antialiased;
 }
 #contact {
 	padding-left: 20px;
@@ -109,8 +115,10 @@ body {
 }
 #more {
 	font-variant: normal;
-	color: rgba(255,51,0,0.5);
+	color: rgba(0,0,0,1);
 	font-family: "GenuineDomainsItalic";
+	text-shadow: 0px 0px 1px #fff;
+	-webkit-font-smoothing: antialiased;
 }
 #flying {
 	font-family: "GenuineDomainsBold";
@@ -132,14 +140,15 @@ body {
 }
 a.more {
 	text-decoration:;
-	color: rgba(40,200,240,1);
+	color: rgba(51,102,153,1);
+	font-family: "GenuineDomainsItalic";
 }
 h3 {
 	background-color: rgba(255,255,255,1);
 	border: rgba(24,188,156,1) 1px solid;
 	padding: 5px;
 	color: rgba(24,188,156,1);
-	box-shadow: 3px 5px rgba(24,188,156,1);
+	box-shadow: 3px 5px rgba(0,0,0,.5);
 	font-family: "GenuineDomainsBold";
 	overflow: hidden;
 }
@@ -180,3 +189,37 @@ h3.faq {
 #footer-content {
 	color: rgba(153,153,153,1);
 }
+.bg-img {
+	background-image: url(../img/background.jpg);
+	background-size: cover;
+	background-position: top;
+	background-repeat: no-repeat;
+}
+@media (max-width: 767px) {
+  #portfolio {
+    background-image: url(../img/background2.jpg);
+  }
+}
+section h2 {
+  font-size: 3em;
+}
+@media (max-width: 768px) {
+  section h2 {
+    font-size: 2em;
+  }
+  section #title1 {
+	text-shadow: 0px 0px 1px #fff;
+	-webkit-font-smoothing: antialiased;
+  }
+  hr.hr1 {
+	border: rgba(44,44,44,0.85) solid 1px;
+	width: 150px;
+	box-shadow: 0px 0px 1px #fff;
+	-webkit-font-smoothing: antialiased;
+  }
+  hr.hr2 {
+	border: rgba(255,255,255,0.85) solid 1px;
+	width: 150px;
+  }
+}
+
