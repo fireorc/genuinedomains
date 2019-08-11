@@ -216,6 +216,12 @@ h3.faq {
 	background-position: top;
 	background-repeat: no-repeat;
 }
+.bg-img2 {
+	background-image:;
+	background-size: auto;
+	background-position: top;
+	background-repeat: repeat;
+}
 @media (max-width: 767px) {
   #portfolio.bg-img {
     background-image: url(../img/background2.jpg);
