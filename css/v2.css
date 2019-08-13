@@ -222,13 +222,13 @@ h3.faq {
 	background-position: top;
 	background-repeat: repeat;
 }
+section h2 {
+  font-size: 3em;
+}
 @media (max-width: 767px) {
   #portfolio.bg-img {
     background-image: url(../img/background2.jpg);
   }
-}
-section h2 {
-  font-size: 3em;
 }
 @media (max-width: 768px) {
   section h2 {
@@ -253,4 +253,8 @@ section h2 {
 	width: 150px;
   }
 }
-
+@media (max-width: 512px) {
+header .intro-text .name {
+  font-size: 2.25em;
+}
+}
