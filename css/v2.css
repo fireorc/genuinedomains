@@ -221,7 +221,7 @@ h3.faq {
 	color: rgba(153,153,153,1);
 }
 #crypto {
-	font-family: "bitcoinregular", Bitcoin;
+	font-family: 'Bitcoin', "bitcoinregular";
 }
 .bg-img {
 	background-image: url(../img/background.jpg);
