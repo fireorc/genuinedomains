@@ -42,11 +42,11 @@
 }
 @font-face {
     font-family: 'bitcoinregular';
-    src: url('../bitcoin-webfont.eot');
-    src: url('../bitcoin-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../bitcoin-webfont.woff2') format('woff2'),
-         url('../bitcoin-webfont.woff') format('woff'),
-         url('../bitcoin-webfont.ttf') format('truetype');
+    src: url('../fonts/bitcoin-webfont.eot');
+    src: url('../fonts/bitcoin-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/bitcoin-webfont.woff2') format('woff2'),
+         url('../fonts/bitcoin-webfont.woff') format('woff'),
+         url('../fonts/bitcoin-webfont.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
@@ -221,7 +221,7 @@ h3.faq {
 	color: rgba(153,153,153,1);
 }
 #crypto {
-	font-family: "bitcoinregular";
+	font-family: Bitcoin, "bitcoinregular", arial, sans-serif;
 }
 .bg-img {
 	background-image: url(../img/background.jpg);
