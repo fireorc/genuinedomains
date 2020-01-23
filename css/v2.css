@@ -213,9 +213,11 @@ h3.faq {
 .footer-contact {
 	color: rgba(40,200,240,1);
 	font-family: "GenuineDomainsBold";
+	font-size: 18px;
 }
 .footer-content {
 	color: rgba(255,255,0,1);
+	font-size: 18px;
 }
 #footer-content {
 	color: rgba(153,153,153,1);
