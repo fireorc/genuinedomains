@@ -1,4 +1,4 @@
-document.getElementById('footer-content').innerHTML = "© Genuine Domains, 2016 to present";
+document.getElementById('footer-content').innerHTML = "<span style='font-size: 18px;'>© Genuine Domains, 2016 to present</span>";
 /* in conjunction with css contact and form-deco id
 function contact() {
   var x = document.getElementById("contact");
