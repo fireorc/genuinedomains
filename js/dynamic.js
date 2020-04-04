@@ -26,7 +26,7 @@
 			$('#corpweb').show();
 		} 
 		// Check if the URL parameter matches
-		if (dynamicContent == 'vnx') {
+		else if (dynamicContent == 'vnx') {
 			$('#vnx').show();
 		} 
 		// Check if the URL parameter matches
@@ -38,7 +38,7 @@
 			$('#cuckoo').show();
 		} 
 		// Check if the URL parameter matches
-		if (dynamicContent == 'ntranet') {
+		else if (dynamicContent == 'ntranet') {
 			$('#ntranet').show();
 		} 
 		// Check if the URL parameter matches
@@ -50,7 +50,7 @@
 			$('#nomed').show();
 		} 
 		// Check if the URL parameter matches
-		if (dynamicContent == 'wack') {
+		else if (dynamicContent == 'wack') {
 			$('#wack').show();
 		} 
 		// Check if the URL parameter matches
@@ -62,7 +62,7 @@
 			$('#hacienda').show();
 		} 
 		// Check if the URL parameter matches
-		if (dynamicContent == 'parkette') {
+		else if (dynamicContent == 'parkette') {
 			$('#parkette').show();
 		} 
 		// Check if the URL parameter matches
@@ -74,7 +74,7 @@
 			$('#cancion').show();
 		} 
 		// Check if the URL parameter matches
-		if (dynamicContent == 'severities') {
+		else if (dynamicContent == 'severities') {
 			$('#severities').show();
 		} 
 		// Check if the URL parameter matches
@@ -86,7 +86,7 @@
 			$('#flamborough').show();
 		} 
 		// Check if the URL parameter matches
-		if (dynamicContent == 'federalbuilding') {
+		else if (dynamicContent == 'federalbuilding') {
 			$('#federalbuilding').show();
 		} 
 		// Check if the URL parameter matches
@@ -102,7 +102,7 @@
 			$('#energyspeak').show();
 		} 
 		// Check if the URL parameter matches
-		if (dynamicContent == '9inch') {
+		else if (dynamicContent == '9inch') {
 			$('#9inch').show();
 		} 
 		// Check if the URL parameter matches
@@ -110,7 +110,7 @@
 			$('#wizards-workshop').show();
 		} 
 		// Check if the URL parameter matches
-		if (dynamicContent == 'polarvortex') {
+		else if (dynamicContent == 'polarvortex') {
 			$('#polarvortex').show();
 		} 
 		// Check if the URL parameter matches
