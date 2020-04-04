@@ -18,10 +18,6 @@
 			$('#sucky').show();
 		} 
 		// Check if the URL parameter matches
-		else if (dynamicContent == 'toadstool') {
-			$('#toadstool').show();
-		} 
-		// Check if the URL parameter matches
 		else if (dynamicContent == 'corpweb') {
 			$('#corpweb').show();
 		} 
@@ -94,10 +90,6 @@
 			$('#tekwolf').show();
 		} 
 		// Check if the URL parameter matches
-		else if (dynamicContent == 'needy') {
-			$('#needy').show();
-		} 
-		// Check if the URL parameter matches
 		else if (dynamicContent == 'energyspeak') {
 			$('#energyspeak').show();
 		} 
@@ -108,10 +100,6 @@
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'wizards-workshop') {
 			$('#wizards-workshop').show();
-		} 
-		// Check if the URL parameter matches
-		else if (dynamicContent == 'polarvortex') {
-			$('#polarvortex').show();
 		} 
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'archangel') {
