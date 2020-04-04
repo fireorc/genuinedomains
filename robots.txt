@@ -6,6 +6,8 @@ Disallow: /js/
 Disallow: /dots/
 Disallow: /names/
 Disallow: /extra/
+Disallow: /lander/
+Disallow: lander.html
 Disallow: 404.html
 
 Sitemap: https://genuine.domains/sitemap.xml
