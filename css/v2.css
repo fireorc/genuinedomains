@@ -52,11 +52,12 @@
 }
 @font-face {
   font-family: 'btc';
-  src:  url('fonts/btc.eot?wsfr8x');
-  src:  url('fonts/btc.eot?wsfr8x#iefix') format('embedded-opentype'),
-    url('fonts/btc.ttf?wsfr8x') format('truetype'),
-    url('fonts/btc.woff?wsfr8x') format('woff'),
-    url('fonts/btc.svg?wsfr8x#btc') format('svg');
+  src:  url('../fonts/btc.eot?wsfr8x');
+  src:  url('../fonts/btc.eot?wsfr8x#iefix') format('embedded-opentype'),
+    url('../fonts/btc.ttf?wsfr8x') format('truetype'),
+    url('../fonts/btc.woff?wsfr8x') format('woff'),
+	url('../fonts/btc.woff2') format('woff2'),
+    url('../fonts/btc.svg?wsfr8x#btc') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
