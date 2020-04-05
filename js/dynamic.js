@@ -113,6 +113,38 @@
 		else if (dynamicContent == 'smoky') {
 			$('#smoky').show();
 		} 
+		// Check if the URL parameter matches
+		else if (dynamicContent == 'robot') {
+			$('#robot').show();
+		} 
+		// Check if the URL parameter matches
+		else if (dynamicContent == 'bug') {
+			$('#bug').show();
+		} 
+		// Check if the URL parameter matches
+		else if (dynamicContent == 'ghost') {
+			$('#ghost').show();
+		} 
+		// Check if the URL parameter matches
+		else if (dynamicContent == 'surfer') {
+			$('#surfer').show();
+		} 
+		// Check if the URL parameter matches
+		else if (dynamicContent == 'punch') {
+			$('#punch').show();
+		} 
+		// Check if the URL parameter matches
+		else if (dynamicContent == 'maple') {
+			$('#maple').show();
+		} 
+		// Check if the URL parameter matches
+		else if (dynamicContent == 'dragon') {
+			$('#dragon').show();
+		} 
+		// Check if the URL parameter matches
+		else if (dynamicContent == 'bitcoin') {
+			$('#bitcoin').show();
+		} 
 		// Check if the URL parmeter is empty or not defined, display default content
 		else {
 			$('#default-content').show();
