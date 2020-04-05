@@ -226,6 +226,9 @@ h3.faq {
 #crypto {
 	font-family: Bitcoin, "bitcoinregular", arial, sans-serif;
 }
+#btc {
+	font-family: Bitcoin, "bitcoinregular", arial, sans-serif;
+}
 .bg-img {
 	background-image: url(../img/background.jpg);
 	background-size: cover;
