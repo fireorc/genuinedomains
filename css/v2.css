@@ -46,7 +46,8 @@
     src: url('../fonts/bitcoin-webfont.eot?#iefix') format('embedded-opentype'),
          url('../fonts/bitcoin-webfont.woff2') format('woff2'),
          url('../fonts/bitcoin-webfont.woff') format('woff'),
-         url('../fonts/bitcoin-webfont.ttf') format('truetype');
+         url('../fonts/bitcoin-webfont.ttf') format('truetype'),
+         url('../fonts/bitcoin-webfont.svg#btc-brands') format('svg');
     font-weight: normal;
     font-style: normal;
 }
