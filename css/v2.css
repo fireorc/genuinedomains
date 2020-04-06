@@ -56,13 +56,11 @@
   src:  url('../fonts/btc.eot?wsfr8x#iefix') format('embedded-opentype'),
     url('../fonts/btc.ttf?wsfr8x') format('truetype'),
     url('../fonts/btc.woff?wsfr8x') format('woff'),
-	url('../fonts/btc.woff2') format('woff2'),
     url('../fonts/btc.svg?wsfr8x#btc') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
 }
-
 [class^="icon-"], [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'btc' !important;
@@ -254,13 +252,19 @@ h3.faq {
 	color: rgba(153,153,153,1);
 }
 #crypto {
-	font-family: Bitcoin, "bitcoinregular", arial, sans-serif;
-}
-#btc {
-	font-family: Bitcoin, "bitcoinregular", arial, sans-serif;
+	font-family: Bitcoin, "bitcoinregular";
 }
 #btc {
 	font-family: "btc";
+}
+.dynamic-content {
+    display:none;
+	font-family: "GenuineDomainsBold";
+	text-shadow:
+-1px -1px 0 #fff,
+1px -1px 0 #fff,
+-1px 1px 0 #fff,
+1px 1px 0 #fff;
 }
 .noselect {
   -webkit-touch-callout: none; /* iOS Safari */
