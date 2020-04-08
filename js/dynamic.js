@@ -14,8 +14,8 @@
 	 $(document).ready(function() {
  
 		// Check if the URL parameter matches
-		if (dynamicContent == 'sucky') {
-			$('#sucky').show();
+		if (dynamicContent == 'pixeloodle') {
+			$('#pixeloodle').show();
 		} 
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'corpweb') {
