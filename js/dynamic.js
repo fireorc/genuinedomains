@@ -114,6 +114,10 @@
 			$('#smoky').show();
 		} 
 		// Check if the URL parameter matches
+		else if (dynamicContent == 'e-u') {
+			$('#e-u').show();
+		} 
+		// Check if the URL parameter matches
 		else if (dynamicContent == 'robot') {
 			$('#robot').show();
 		} 
