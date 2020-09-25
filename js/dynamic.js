@@ -18,8 +18,8 @@
 			$('#pixeloodle').show();
 		} 
 		// Check if the URL parameter matches
-		else if (dynamicContent == 'namsie') {
-			$('#namsie').show();
+		else if (dynamicContent == 'web') {
+			$('#web').show();
 		} 
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'corpweb') {
