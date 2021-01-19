@@ -26,10 +26,6 @@
 			$('#schoolteacher').show();
 		} 
 		// Check if the URL parameter matches
-		else if (dynamicContent == 'cuckoo') {
-			$('#cuckoo').show();
-		} 
-		// Check if the URL parameter matches
 		else if (dynamicContent == 'ntranet') {
 			$('#ntranet').show();
 		} 
@@ -68,10 +64,6 @@
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'severities') {
 			$('#severities').show();
-		} 
-		// Check if the URL parameter matches
-		else if (dynamicContent == 'archmage') {
-			$('#archmage').show();
 		} 
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'flamborough') {
