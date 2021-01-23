@@ -98,6 +98,10 @@
 			$('#e-u').show();
 		} 
 		// Check if the URL parameter matches
+		else if (dynamicContent == 'virusparticles') {
+			$('#virusparticles').show();
+		} 
+		// Check if the URL parameter matches
 		else if (dynamicContent == 'robot') {
 			$('#robot').show();
 		} 
