@@ -102,18 +102,6 @@
 			$('#virusparticles').show();
 		} 
 		// Check if the URL parameter matches
-		else if (dynamicContent == 'robot') {
-			$('#robot').show();
-		} 
-		// Check if the URL parameter matches
-		else if (dynamicContent == 'bug') {
-			$('#bug').show();
-		} 
-		// Check if the URL parameter matches
-		else if (dynamicContent == 'ghost') {
-			$('#ghost').show();
-		} 
-		// Check if the URL parameter matches
 		else if (dynamicContent == 'surfer') {
 			$('#surfer').show();
 		} 
