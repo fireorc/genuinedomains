@@ -26,10 +26,6 @@
 			$('#schoolteacher').show();
 		} 
 		// Check if the URL parameter matches
-		else if (dynamicContent == 'ntranet') {
-			$('#ntranet').show();
-		} 
-		// Check if the URL parameter matches
 		else if (dynamicContent == 'thingsinamerica') {
 			$('#thingsinamerica').show();
 		} 
