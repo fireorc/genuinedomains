@@ -30,8 +30,12 @@
 			$('#ntranet').show();
 		} 
 		// Check if the URL parameter matches
-		else if (dynamicContent == 'jpud') {
-			$('#jpud').show();
+		else if (dynamicContent == 'thignsinamerica') {
+			$('#thingsinamerica').show();
+		} 
+		// Check if the URL parameter matches
+		else if (dynamicContent == 'kqwik') {
+			$('#kqwik').show();
 		} 
 		// Check if the URL parameter matches
 		else if (dynamicContent == 'nomed') {
