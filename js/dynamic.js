@@ -98,6 +98,14 @@
 			$('#virusparticles').show();
 		} 
 		// Check if the URL parameter matches
+		else if (dynamicContent == 'canbuy') {
+			$('#canbuy').show();
+		} 
+		// Check if the URL parameter matches
+		else if (dynamicContent == 'cansell') {
+			$('#cansell').show();
+		} 
+		// Check if the URL parameter matches
 		else if (dynamicContent == 'surfer') {
 			$('#surfer').show();
 		} 
