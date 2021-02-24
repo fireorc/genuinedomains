@@ -106,6 +106,14 @@
 			$('#cansell').show();
 		} 
 		// Check if the URL parameter matches
+		else if (dynamicContent == 'blood') {
+			$('#blood').show();
+		} 
+		// Check if the URL parameter matches
+		else if (dynamicContent == 'defi') {
+			$('#defi').show();
+		} 
+		// Check if the URL parameter matches
 		else if (dynamicContent == 'surfer') {
 			$('#surfer').show();
 		} 
